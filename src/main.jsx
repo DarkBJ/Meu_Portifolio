@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import './index.css';
 import Apresentação from './pages/Home/apresentação';
 import Leftbar from './components/leftbar';
-import Navbar from './components/sidebar';
+import Navbar from './components/navbar';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
