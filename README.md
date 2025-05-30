@@ -1,12 +1,41 @@
-# React + Vite
+# 🌐 Meu Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o meu primeiro projeto de portfólio, feito com **HTML** e **Tailwind CSS**. Estou desenvolvendo para apresentar meus trabalhos, habilidades e aprender mais sobre desenvolvimento web. Em breve, pretendo adicionar funcionalidades com **JavaScript**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Tecnologias usadas
 
-## Expanding the ESLint configuration
+- React + Vite
+- HTML5  
+- [Tailwind CSS](https://tailwindcss.com)  
+- (Em breve) JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 📌 O que ainda vou adicionar
+
+- Seções de projetos  
+- Animações com JavaScript  
+- Responsividade completa para mobile  
+- Dark Mode
+
+---
+
+### 🛠️ Status
+
+🚧 Projeto em desenvolvimento...
+
+---
+
+### ✨ Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-gustavo-santos-nascimento-32b12330a/)  
+ou pelo e-mail: [darkbj13.lg@gmail.com](mailto:darkbj13.lg@gmail.com)
+
+---
+
+### 📄 Licença
+
+Este projeto está licenciado sob os termos da licença MIT.  
+Veja o arquivo [LICENSE](./LICENSE) para mais informações.
