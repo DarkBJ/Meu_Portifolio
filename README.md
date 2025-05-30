@@ -6,6 +6,7 @@ Este é o meu primeiro projeto de portfólio, feito com **HTML** e **Tailwind CS
 
 ### 🚀 Tecnologias usadas
 
+- React + Vite
 - HTML5  
 - [Tailwind CSS](https://tailwindcss.com)  
 - (Em breve) JavaScript
