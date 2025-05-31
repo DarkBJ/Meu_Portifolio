@@ -7,7 +7,7 @@ export default function Leftbar() {
                 <div className="p-20 h-[100%] flex items-center flex-col justify-between">
 
                     <div className="relative">
-                        <a href="#" className="text-white font-bold text-[2.5rem]  after:content-[''] after:absolute after:left-0 after:bottom-[-3px] after:w-full after:h-[4px] after:bg-white after:rounded-[5px] after:scale-x-0 after:origin-right after:transition-transform after:duration-500 hover:after:origin-left hover:after:scale-x-100 transform">
+                        <a href="#" className="text-white font-bold text-[2rem]  after:content-[''] after:absolute after:left-0 after:bottom-[-3px] after:w-full after:h-[4px] after:bg-white after:rounded-[5px] after:scale-x-0 after:origin-right after:transition-transform after:duration-500 sm:text-[2.5rem] hover:after:origin-left hover:after:scale-x-100 transform">
                         Luís Gustavo
                         </a>
                     </div>
