@@ -3,7 +3,7 @@ import { Linkedin } from 'lucide-react';
 
 export default function Leftbar() {
     return(
-        <div className="border-2 border-white area-sidebar">
+        <div className="bg-gradient-to-tr from-black to-gray-900 lg:rounded-r-[25px] sm:rounded-b-[25px]">
                 <div className="p-20 h-[100%] flex items-center flex-col justify-between">
 
                     <div className="relative">

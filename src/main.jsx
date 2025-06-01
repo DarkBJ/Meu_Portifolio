@@ -7,7 +7,7 @@ import Navbar from './components/navbar';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <div className="w-full h-[100vh] bg-gradient-to-tr from-black to-gray-900 lg:grid grid-cols-[2fr_8fr_1fr] dm:grid-rows-3  overflow-hidden">
+    <div className="w-full h-[100vh] bg-gradient-to-tr from-black to-gray-900 lg:grid grid-cols-[2fr_8fr_1fr]  overflow-hidden">
 
         <Leftbar />
 
